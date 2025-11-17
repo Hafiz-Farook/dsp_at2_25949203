@@ -82,12 +82,14 @@ cd C:\Users\YourName\Documents\dsp_at2_25949203
 Run these commands:
 
 pip install streamlit
+
 pip install requests
 
 
 If pip doesn't work, try:
 
 python -m pip install streamlit
+
 python -m pip install requests
 
 
