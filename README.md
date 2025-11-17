@@ -58,7 +58,7 @@ Your project must contain **exactly five files** (no folders):
 
 ---
 
-## 🚀 How to Run the Web App
+##  How to Run the Web App
 
 ### **1. Install required packages**
 
