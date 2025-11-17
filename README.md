@@ -129,7 +129,7 @@ http://localhost:8501
 
 ---
 
-## 📦 Submission Instructions
+## 📦 Submitted files
 
 the submitted ZIP file is named:
 
@@ -138,9 +138,13 @@ dsp_at2_259203.zip
 
 It contains only the following files:
 app.py
+
 api.py
+
 frankfurter.py
+
 currency.py
+
 README.md
 
 
